@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+websockets
+openai-whisper
+gtts
+httpx
+python-dotenv
+numpy
+ffmpeg-python
